@@ -1,0 +1,52 @@
+,pcs,shop,part number,mouser link,Value,Description,Remark
+buzzer,1,Mouser,497-IE092705-1,http://www.mouser.de/ProductDetail/DB-Unlimited/IE092705-1/?qs=sGAEpiMZZMsK322k1rNFfcgPemjd3DTzEp%2fDySc6GeWYtvlLEr%252bCRQ%3d%3d,buzzer,5V with generator,"max. diameter 14, raster 7.50"
+"C1, C4, C5, C6, C7, C14, C16",7,Mouser,594-K104K15X7RF5UH5,http://www.mouser.de/Search/ProductDetail.aspx?R=K104K15X7RF5UH5virtualkey59420000virtualkey594-K104K15X7RF5UH5,100nF,monolithic capacitor,raster 5.08
+C12,1,Mouser,594-K220J10C0GF5UH5,http://www.mouser.de/ProductDetail/Vishay-BC-Components/K220J10C0GF5UH5/?qs=sGAEpiMZZMsh%252b1woXyUXj9nJp%252b8gphztXIKBUu3gv%252bs%3d,22p,ceramic capacitor,raster 5.08
+"C2, C3",2,Mouser,140-500N5-150J-RC,http://www.mouser.de/Search/ProductDetail.aspx?R=140-500N5-150J-RCvirtualkey21980000virtualkey140-500N5-150J-RC,15pF,ceramic capacitor,raster 5.08
+"C8, C15",2,Mouser,647-USR1A101MDD,http://www.mouser.de/ProductDetail/Nichicon/USR1A101MDD/?qs=1l1h9%2f8eNcB%2fF%252b1aUZkngg%3d%3d,100u/10V,electrolytic capacitor,"raster 2.54, diameter ~7, max. height ~10"
+C9,1,Mouser,81-DEA1X3F150JP3A,http://www.mouser.de/ProductDetail/Murata-Electronics/DEA1X3F150JP3A/?qs=sGAEpiMZZMsh%252b1woXyUXjwGE0GWvwwx1mCgRqgjjOQg%3d,22p/500V,high voltage ceramic capacitor,raster 5.08
+CON3,1,Mouser,653-XM7D-0512,http://www.mouser.de/ProductDetail/Omron-Electronics/XM7D-0512/?qs=sGAEpiMZZMulM8LPOQ%252bykwA5NqHGuO67nV81PdmGbEec3PvMr6G6mg%3d%3d,MiniUSB-B,"mini usb b type connector, angle","5 pin, standard, THT"
+D1,1,Mouser,859-LTL-4296N,http://www.mouser.de/ProductDetail/Lite-On/LTL-4296N/?qs=sGAEpiMZZMuUGkcRtBnQOKmIsX9lELqy,LED,"3mm, in your favourite colour",
+"DZ1, DZ4, DZ5",3,Mouser,583-1N5231B-B,http://www.mouser.de/Search/ProductDetail.aspx?R=1N5231B-Bvirtualkey58300000virtualkey583-1N5231B-B,5V1,Zener diode 5.1V,
+"DZ2, DZ3",2,Mouser,78-BZX85B3V6,http://www.mouser.de/ProductDetail/Vishay-Semiconductors/BZX85B3V6-TR/?qs=sGAEpiMZZMvzziJrs9%252bUWc6yyiVRxOrK,3V6,Zener diode 3.6V,
+IC2,1,Mouser,512-LM358N,http://www.mouser.de/ProductDetail/Fairchild-Semiconductor/LM358N/?qs=sGAEpiMZZMtCHixnSjNA6HvcXy4Obg07ftQkS3380Mo%3d,LM358N,dual operational amplifier,
+L1,1,Mouser,434-SMCCN-100K-02,http://www.mouser.de/ProductDetail/Fastron/SMCC-N-100K-02/?qs=sGAEpiMZZMsg%252by3WlYCkU45muCuneYXkWiaAHNTHlLQ%3d,10uH,"inductor, axial",
+L2,1,Mouser,434-MICCS-220K-02,http://www.mouser.de/ProductDetail/Fastron/MICCS-220K-02/?qs=sGAEpiMZZMsg%252by3WlYCkU3Estp%252bO%2f4X7gaKBXDpkBGs%3d,22uH,"inductor, axial",
+R1,1,Mouser,660-MF1/4LCT52R471J,http://www.mouser.de/ProductDetail/KOA-Speer/MF1-4LCT52R471J/?qs=sGAEpiMZZMtlubZbdhIBIBiU%2fdU%2f2aMBLNYf4NMtgqw%3d,470,"resistor 1/4W, 5%",
+R10,1,Mouser,279-LR1F200K,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/LR1F200K/?qs=sGAEpiMZZMtlubZbdhIBIFho3SHfDXSty5MyXeGncVQ%3d,200k,"resistor 0.6W, 1%, metalized",
+R11,1,Mouser,279-LR1F68K,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/LR1F68K/?qs=sGAEpiMZZMtlubZbdhIBIFho3SHfDXStUtfD5W4H2AY%3d,68k,"resistor 0.6W, 1%, metalized",
+"R14, R21",2,Mouser,279-LR1F100K,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/LR1F100K/?qs=sGAEpiMZZMtlubZbdhIBIFho3SHfDXStyHgsH%2fB6ENQ%3d,100k,"resistor 0.6W, 1%, metalized",
+R2,1,Mouser,660-MS1/4DCT52R1002,http://www.mouser.de/ProductDetail/KOA-Speer/MFS1-4DCT52R1002F/?qs=sGAEpiMZZMu61qfTUdNhG%2fDQawzJ6c7PxO8WA%2fw0T2E%3d,10k,"resistor 1/4W, 5%",
+R20,1,Mouser,279-LR1F22K,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/LR1F22K/?qs=sGAEpiMZZMu61qfTUdNhG0k3J%252b4UeQ2nzRx4YkCm43I%3d,22k,"resistor 0.6W, 1%, metalized",
+R19,1,Mouser,279-LR1F33K,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/LR1F1K0/?qs=sGAEpiMZZMu61qfTUdNhG0k3J%252b4UeQ2n0t8q6nOWP2U%3d,33k,,
+"R5, R6",2,Mouser,291-68-RC,http://www.mouser.de/ProductDetail/Xicon/291-68-RC/?qs=sGAEpiMZZMtlubZbdhIBIOeQLv1WbhugYUs41fvO0%252b0%3d,68,"resistor 1/4W, 5%",
+R7,1,Mouser,279-LR1F220K,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/CFR16J1K5/?qs=sGAEpiMZZMtlubZbdhIBIOCXMLkfQ6V9OxcT7yRerpw%3d,1k5,"resistor 1/4W, 5%",
+"R9, R13",1,Mouser,279-LR1F220K,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/LR1F220K/?qs=sGAEpiMZZMtlubZbdhIBIFho3SHfDXStMdh3%252bs1x%252bFE%3d,220k,"resistor 0.6W, 1%, metalized",
+"SW1, SW2, SW3",3,Mouser,506-2-1825027-0,https://www.mouser.de/Search/ProductDetail.aspx?R=2-1825027-0virtualkey50660000virtualkey506-2-1825027-0,tact switch,angle with button height 5.85mm or more,switch
+T1,1,Mouser,512-BS170D27Z,http://www.mouser.de/ProductDetail/Fairchild-Semiconductor/BS170_D27Z/?qs=sGAEpiMZZMshyDBzk1%2fWi6u8DDnmpUwtixQcENp3p68%3d,BS170,"n-mosfet, TO-92",
+X1,1,Mouser,559-FOXS200-20-LF,http://www.mouser.de/ProductDetail/Fox/FOXSLF-200-20/?qs=sGAEpiMZZMsBj6bBr9Q9aRTaFt3VVGpld2PX1XJSqd4%3d,20MHz,"crystal resonator, HC-49S",
+CON1,1,Mouser,855-M20-9960246,http://www.mouser.de/ProductDetail/Harwin/M20-9960246/?qs=sGAEpiMZZMu6TJb8E8Cjr6PY1FLBIgPV,RS232,"1x4 pin header, angle","optional, raster 2.54"
+CON2,1,Mouser,855-M20-9770246,http://www.mouser.de/ProductDetail/Harwin/M20-9770246/?qs=sGAEpiMZZMu6TJb8E8CjrwMnxwMp53te,ISP,"2x3 pin header, straight","optional, raster 2.54"
+VR1,1,Mouser,858-67WR10KLF,http://www.mouser.de/ProductDetail/BI-Technologies-TT-Electronics/67WR10KLF/?qs=sGAEpiMZZMvygUB3GLcD7t%252bTH1DfRowScE3Cd2WoEC0%3d,10k,"variable resistor, type 3296W",mount only with native I2C display
+T2,1,Mouser,512-BS170D27Z,http://www.mouser.de/ProductDetail/Fairchild-Semiconductor/BS170_D27Z/?qs=sGAEpiMZZMshyDBzk1%2fWi6u8DDnmpUwtixQcENp3p68%3d,BS170,"n-mosfet, TO-92",mount only with native I2C display
+"R3, R4",2,Mouser,660-MF1/4LCT52R222J,http://www.mouser.de/ProductDetail/KOA-Speer/MF1-4LCT52R222J/?qs=sGAEpiMZZMtlubZbdhIBIBiU%2fdU%2f2aMBiz8d3Ah9daE%3d,2k2,"resistor 1/4W, 5%",mount only with native I2C display
+,,,,,,,
+DISP1,1,,buy somewhere else those are too expensive here,http://www.mouser.de/ProductDetail/mikroElektronika/MIKROE-55/?qs=sGAEpiMZZMuCISx1W3tuznzw%252bFuT6CWS,Display,alphanumeric LCD 2x16 with additional expander*,only one display ... or none
+or DISP2 ,1,,e.g. aliexpress.com,http://www.mouser.de/ProductDetail/Newhaven-Display/NHD-0216CW-AB3/?qs=sGAEpiMZZMshRHSPqbouvOr0%2fnlF2uMHnmlhq7UytQ%2f4fxaTmON4NQ%3d%3d,Display,alphanumeric LCD 2x16 with native I2C**,only one display ... or none
+,,,,,,,
+"R15, R16",2,,,,10M,"resistor 0.6W, 1%, metalized",will be delivered
+L3,1,,,,10mH,"inductor, vertical",will be delivered
+R22,1,,279-LR1F1K0,http://www.mouser.de/ProductDetail/TE-Connectivity-Neohm/LR1F1K0/?qs=sGAEpiMZZMu61qfTUdNhG0k3J%252b4UeQ2n0t8q6nOWP2U%3d,1k,"resistor 0.6W, 1%, metalized",will be delivered
+R17,1,,279-LR1F33K,http://www.mouser.de/ProductDetail/TE-Connectivity/CFR16J33K/?qs=%2fha2pyFaduj6rHsrYtyzKJS6htRk52LfyEn2kzF4dNc%3d,33k,"resistor 0.6W, 1%, metalized",will be delivered
+R8,1,,279-LR1F470K,http://www.mouser.de/ProductDetail/TE-Connectivity/LR1F470K/?qs=ip69W3eHERXAbrHhfTLqcA%3d%3d,470k,"resistor 0.6W, 1%, metalized",will be delivered
+"R12, R18",2,,,,5M1,"resistor 0.6W, 1%, metalized",will be delivered
+Enclosure,1,,,,KM-33B,machined at CNC,will be delivered
+Distance,2,,,,M2.5x10,,will be delivered
+Screw,4,,,,M2.5x4,,will be delivered
+T3,1,,,,MPSA44,"high voltage NPN, darlington transistor, TO-92",will be delivered
+GMTUBE,1,,,,SBM-20 / STS-5 / BOB-33A,"Geiger-Muller Tube, as specified",will be delivered
+D2,1,,,,UF4007,"ultra fast rectifier diode, 1kV",will be delivered
+Tube Holder,1,,,,,,will be delivered
+IC1,1,,,,ATmega88P,avr microcontroller,will be delivered programmed
+"C10, C13",2,,,,220n/630V,polypropylene or poliester capacitor,"will be delivered, raster 15.24"
+C11,1,,,,4n7,"MKT, MKP or monolithyc capacitor","will be delivered, raster 5.08"
